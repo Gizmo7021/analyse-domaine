@@ -61,5 +61,4 @@
 
 ## Ma capsule
 
-![Mon interface OBS](<img width="1917" height="1020" alt="Capture d’écran 2026-11-05 183426" src="https://github.com/user-attachments/assets/683022ef-da98-4592-b329-fd274eacecdb" />
-)
+<img width="1917" height="1020" alt="Capture d’écran 2026-11-05 184058" src="https://github.com/user-attachments/assets/0976cef5-f063-4517-8260-b4223427b82b" />
