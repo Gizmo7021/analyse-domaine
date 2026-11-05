@@ -50,7 +50,7 @@
 - Types de produits et de services : jeu vidéo, BD, bande sons, merch
 - Étapes de production : l'idéation (concept, mécaniques, public cible, analyse du marché, prototype), préproduction (direction artistique, document de conception, demo, planification), production (programmation, création personnages, décors et son, level design) postproduction (test et correction des bugs, optimisation et équilibrage, certification et lancement), opération (correctifs, mise à jours, contenue additionnelle, gestion de la communauté)
 - Type d'emploi visé : game designeur, artiste graphique ou programmeur
-- Étapes pour obtenir cet emploi : ...
+- Étapes pour obtenir cet emploi : formation, portfolio, apprendre à coder avec java script, stage
 
 ## Conclusion
 
