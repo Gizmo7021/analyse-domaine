@@ -45,7 +45,7 @@
 
 ![Red Barrels](https://www.gamerscore.com.br/wp-content/uploads/2026/05/Red-Barrels-15th.jpg)
 
-(source de l'image : ...)
+(source de l'image : https://www.gamerscore.com.br/red-barrels-celebra-15-anos-de-trajetoria-e-o-impacto-da-franquia-outlast/)
 
 - Types de produits et de services : ...
 - Étapes de production : ...
