@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="Red-Barrels-15th" src="https://github.com/user-attachments/assets/a939324c-91f7-479d-90ee-fbbdbe205451" />
 # Analyse du domaine — Adèle Bordeleau
 
 ## Découverte de soi
