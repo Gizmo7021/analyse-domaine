@@ -40,7 +40,7 @@
 
 ## Les caractéristiques de mon domaine préféré
 
-- Types d'entreprises : ...
+- Types d'entreprises : Studios de développement
 - Exemple d'entreprise : ...
 
 ![Nom de l'entreprise](entreprise.jpg)
