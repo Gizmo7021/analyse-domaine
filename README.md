@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Red-Barrels-15th" src="https://github.com/user-attachments/assets/a939324c-91f7-479d-90ee-fbbdbe205451" />
 # Analyse du domaine — Adèle Bordeleau
 
 ## Découverte de soi
@@ -43,7 +44,7 @@
 - Types d'entreprises : Studios de développement
 - Exemple d'entreprise : Red Barrels
 
-![Red Barrels](entreprise.jpg)
+![Red Barrels](https://www.gamerscore.com.br/wp-content/uploads/2026/05/Red-Barrels-15th.jpg)
 
 (source de l'image : ...)
 
