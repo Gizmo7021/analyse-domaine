@@ -41,9 +41,9 @@
 ## Les caractéristiques de mon domaine préféré
 
 - Types d'entreprises : Studios de développement
-- Exemple d'entreprise : ...
+- Exemple d'entreprise : Red Barrels
 
-![Nom de l'entreprise](entreprise.jpg)
+![Red Barrels](entreprise.jpg)
 
 (source de l'image : ...)
 
