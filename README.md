@@ -31,12 +31,12 @@
 - Pourquoi il m'intéresse : Je joue aux jeux vidéo depuis que j'ai 4 ans et ils ont beaucoup influencé mon côté artistique. J'ai déjà quelques idées de jeux en tête
 - Travailler dans ce domaine : Oui, parce que c'est un marché qui est toujours en expansion et j'habite proche de Montréal où on retrouve plusieurs studios
 
-### Domaine 2 : ...
+### Domaine 2 : Web
 
-- Expérience : ...
-- Logiciels et outils : ...
-- Pourquoi il m'intéresse : ...
-- Travailler dans ce domaine : ...
+- Expérience : Elle vient surtout du cours de Web
+- Logiciels et outils : VSCode, HTML, CSS
+- Pourquoi il m'intéresse : J'adore faire du code et c'est une matière que je maitrise quand même assez bien
+- Travailler dans ce domaine : Oui, je comprend comment faire du HTML et je commence avec le CSS. Aussi, c'est quelque chose dont je raffole
 
 ## Les caractéristiques de mon domaine préféré
 
