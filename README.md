@@ -14,13 +14,13 @@
 
 | Domaine | Intérêt | Pourquoi |
 |---|---|---|
-| Graphisme | ... | ... |
-| Vidéo et animation 2D | ... | ... |
-| 3D | ... | ... |
-| Web | ... | ... |
-| Jeux vidéo | ... | ... |
-| Développement logiciel | ... | ... |
-| Installations et expériences immersives | ... | ... |
+| Graphisme | 4 | Je suis quelqu'un qui aime beaucoup dessiner |
+| Vidéo et animation 2D | 3 | Je suis passionnée par l'animation, mais je n'en ai jamais fait personellemnt |
+| 3D | 3 | J'ai déjà fait de la modélisation 3D et j'ai bien aimée ça |
+| Web | 5 | J'adore coder, c'est l'un de mes cours préférés |
+| Jeux vidéo | 5 | Je joue énormément aux jeux vidéo et j'aimerais bien en faire |
+| Développement logiciel | 2 | J'ai jamais vraiment pensé à travailler là-dedans |
+| Installations et expériences immersives | 2 | J'ai fait plusieurs escape games dans ma vie, c'est pas le truc que je trouve le plus intéressant |
 
 ## Mes 2 domaines préférés
 
