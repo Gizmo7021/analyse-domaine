@@ -7,7 +7,7 @@
 - Mes faiblesses ou points à améliorer : Difficulté à me concentrer (surtout au départ)
     - Exemple : Souvent lorsque j'ai un texte à lire, ça me prend beaucoup de temps pour le terminer parce que je prends beaucoup de poses cellulaire
 - Seul(e) ou en équipe : Seule
-    - Pourquoi et exemple : Je me suis souvent retrouvée à faire des travaux d'équipes seules au secondaire car j'étais souvent coincée avec des partenaires qui faisait absolument rien.
+    - Pourquoi et exemple : Je me suis souvent retrouvée à faire des travaux d'équipes seule au secondaire car j'étais souvent coincée avec des partenaires qui faisaientt absolument rien.
 - Plutôt technique ou créatif : Je me sens à l'aise dans les deux
 
 ## Exploration des domaines
@@ -24,12 +24,12 @@
 
 ## Mes 2 domaines préférés
 
-### Domaine 1 : ...
+### Domaine 1 : Jeux vidéo
 
-- Expérience : ...
-- Logiciels et outils : ...
-- Pourquoi il m'intéresse : ...
-- Travailler dans ce domaine : ...
+- Expérience : Je joue beaucoup au jeux vidéo dans mes temps libres, par contre je ne sais pas comment en faire un
+- Logiciels et outils : java script (code), motioncapture, la modélisation et l'animation 3D
+- Pourquoi il m'intéresse : Je joue aux jeux vidéo depuis que j'ai 4 ans et ils ont beaucoup influencé mon côté artistique. J'ai déjà quelques idées de jeux en tête
+- Travailler dans ce domaine : Oui, parce que c'est un marché qui est toujours en expansion et j'habite proche de Montréal où on retrouve plusieurs studios
 
 ### Domaine 2 : ...
 
