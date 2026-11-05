@@ -54,10 +54,10 @@
 
 ## Conclusion
 
-- Mon profil en une phrase : ...
-- Ce qui m'a surpris : ...
-- Ma force principale et la faiblesse à travailler : ...
-- Mon action d'ici la fin de la session : ...
+- Mon profil en une phrase : Je suis une personne créative et organisée qui souhaite travailler dans le domaine du jeu vidéo
+- Ce qui m'a surpris : Je ne m'attendais à retrouver le développement de logiciels
+- Ma force principale et la faiblesse à travailler : Ma créativité (force) et ma difficulté à faire certains travaux (faiblesse)
+- Mon action d'ici la fin de la session : Ajouter des compétences à ma feuille de suivi. J'ai déjà d'autres projets de termninés
 
 ## Ma capsule
 
